@@ -1,5 +1,7 @@
-### Welcome to my mato
-😽
+### Welcome to my mato 😽
+
+![image](https://user-images.githubusercontent.com/132673963/236486720-0a76e1f9-be19-4914-b345-f1bb4dccf793.png)
+
 
 <!--
 **LSoncella/LSoncella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
