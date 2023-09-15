@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    color: rgb(0, 3, 165);
+    background-color: rgb(212, 224, 255);
+}
+
+.titulo {
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    background-color: rgb(14, 128, 228); 
+}
+
+.subtitulo {
+    font-family: monospace;
+}
+
+.texto {
+    
+    text-align: center;
+    border: 1cm;
+    font-size: x-large;
+    font-family: monospace;
+
+}
+
+
+.outrafoto {
+    align-content: center;
+}
+
+.praças {
+    text-align: center;
+    font-size: x-large;
+    font-family: monospace;
+    border: 1cm;
+}
